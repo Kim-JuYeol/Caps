@@ -1,2 +1,7 @@
 # Caps
- 금융결제원 API를 이용한 금융앱
+
+
+firebase 연동 
+1. 안드로이드 스튜디오 Tools -> firebase -> Authentication -> Authenticate using Google 
+2. 안드로이드 스튜디오 Tools -> firebase -> Realtime Database -> Get started with Realtime Database
+
